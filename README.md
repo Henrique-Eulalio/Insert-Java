@@ -1,4 +1,3 @@
 # Insert-Java
-Insert básico no Java.
+Insert básico no Java(desktop).
 
-O BD se chama Clinica e está incluido na pasta.
